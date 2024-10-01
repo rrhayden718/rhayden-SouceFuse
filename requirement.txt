@@ -1,0 +1,6 @@
+boto3==1.35.30
+pytest==8.3.3
+unittest2==1.1.0
+moto==5.0.16
+patch==1.16
+os-sys==2.1.4
